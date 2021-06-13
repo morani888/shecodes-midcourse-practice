@@ -1,5 +1,5 @@
 echo "MESSAGE=${MESSAGE}" > .env
-echo "ACCESS_KEY=ASIAYGOAXK47YTNXIGGO" >> .env
-echo "SECRET_KEY=68Ym/HAHt2jjchg/ylLWerbovubuSxY9EldEp/Hf" >> .env
+echo "ACCESS_KEY=${ACCESS_KEY}" >> .env
+echo "SECRET_KEY=${SECRET_KEY}" >> .env
 echo "SESSION_TOKEN=FwoGZXIvYXdzEE0aDGclFVEM/gF50eyQ0CLHAe0EGwaV3W2IE8brOC1sXPXmj6P7+OAIiBoR+OQ0Ygguic8K+JoWcYrTRPMaMLyH+RW3huhvnst1GTTFpBXTr4+n4If7Qe6SilhfpkO6BbfwcaLds2DoLwuE6x3ri7cUOz2+Vtkj66hW8lP4DwC50sIAiikmHcUHENycCnGHJ5cFE9DTQUKNYb1ud5grCbwSQnexDPthbipjp8vqzCC4i7jXFXmrP4dG8zAdsc/hsDDnJbzRyX7IX/oIXE8sMsoxOUSEvqFAlPkopbGZhgYyLXaUKSzjj+6YlvyNAUcMaHdWaJ9yIMCWIi54Z6/d9i6BpOf5wtNr/MdHmsrSLA==" >> .env
 echo "BUCKET_NAME=${BUCKET_NAME}" >> .env
